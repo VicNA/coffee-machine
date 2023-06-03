@@ -17,3 +17,6 @@ content:
 - Enum
 - Property accessors
 - Secondary constructor
+- Jumps and returns
+- Ranges
+- String formatting

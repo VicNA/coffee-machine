@@ -1,6 +1,1 @@
-import kotlin.math.pow
-
-fun main() {
-    val x = readln().toDouble()
-    println(x.pow(3) + x.pow(2) + x + 1)
-}
+fun main() = Array(4) { readln().toDouble() }.let { println(it[0] * 10.5 + it[1] * 4.4 + (it[2] + it[3]) / 2.2) }
